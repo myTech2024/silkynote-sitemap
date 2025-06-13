@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Online Store -->
   <url>
-    <loc>https://online-store.slikynote.com/</loc>
+    <loc>https://online-store.silkynote.com/</loc>
     <lastmod>2025-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
   </url>
   <!-- Pre-Owned Marketplace -->
   <url>
-    <loc>https://pre-owned-marketplace.slikynote.com/</loc>
+    <loc>https://pre-owned-marketplace.silkynote.com/</loc>
     <lastmod>2025-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
