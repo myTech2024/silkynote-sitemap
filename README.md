@@ -1,0 +1,2 @@
+# silkynote-sitemap
+online-stores
