@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Online Store -->
   <url>
-    <loc>https://online-store.silkynote.com/</loc>
-    <lastmod>2025-06-12</lastmod>
+    <loc>https://online-store.silkynote.com</loc>
+    <lastmod>2025-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
-  <!-- Outlet Store -->
   <url>
-    <loc>https://outlet.slikynote.com/</loc>
-    <lastmod>2025-06-12</lastmod>
+    <loc>https://outlet.slikynote.com</loc>
+    <lastmod>2025-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
-  <!-- Pre-Owned Marketplace -->
   <url>
-    <loc>https://pre-owned-marketplace.silkynote.com/</loc>
-    <lastmod>2025-06-12</lastmod>
+    <loc>https://pre-owned-marketplace.silkynote.com</loc>
+    <lastmod>2025-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
